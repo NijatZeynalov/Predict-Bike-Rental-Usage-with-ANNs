@@ -40,3 +40,5 @@ __casual:__ count of casual users
 __registered:__ count of registered users
 
 __cnt:__ count of total rental bikes including both casual and registered
+
+In this project, I have used Artificial Neural Networks, not classic Machine Learning algorithms.
