@@ -41,4 +41,5 @@ __registered:__ count of registered users
 
 __cnt:__ count of total rental bikes including both casual and registered
 
-In this project, I have used Artificial Neural Networks, not classic Machine Learning algorithms.
+
+In this project, I have used Artificial Neural Networks, not classic Machine Learning algorithms. When we evaluate our model by looking at the values above, MAP and MLE give us very similar results, as is expected when we use MAP without any prior information about the target function we are trying to derive. 
